@@ -1,2 +1,3 @@
 # Convolutional-Neural-Network-HW-TASK-
-Developing a simple convolutional neural network for image classification
+This was an individual task to develop a simple convolutional neural network for image classification.
+The main focus was exploring hyperameters for the best model performance  
