@@ -1,3 +1,2 @@
 # Convolutional-Neural-Network-HW-TASK-
-This was an individual task to develop a simple convolutional neural network for image classification.
-The main focus was exploring hyperameters for the best model performance  
+This was an individual hw project to develop a simple convolutional neural network for image classification, which explored hyperparameters for the best model performance.In this self contained hw, the full description of the task and relevant theoretical knowledge is demonstrated, to convey a comprehensive understanding of the project. The tasks are differentiated from the theory by the [TO COMPLETE] notation, and justifications of model choice and evaluation are written where appropriate.
